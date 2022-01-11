@@ -1,1 +1,1 @@
-# CandyWitcg
+# CandyWitch
