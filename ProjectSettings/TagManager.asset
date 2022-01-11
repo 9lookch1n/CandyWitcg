@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster_Horizontal
+  - Monster_Vertical
+  - Monster_Right
+  - Monster_Left
+  - Player1
+  - Monster_Horizontal+Vertical
+  - Monster_Loop
+  - Waypoint
+  - Box
+  - Waypoint2
+  - HandL
+  - Monster_3_1
+  - Monster_Horizontal_Last
+  - Monster_Vertical_Last
+  - Monster_Left_Last
+  - Monster_Right_Last
+  - Loop
+  - Monster_Horizontal_2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
